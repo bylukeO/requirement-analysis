@@ -165,5 +165,68 @@
         Help in identifying and organizing system requirements.
         Facilitate communication among stakeholders and development team.
 
-        ## A use case design diagram for the booking system, Listing actors and use cases.
-        images/
+## A use case design diagram for the booking system, Listing actors and use cases.
+![A Use Case Diagram for the Booking System, Listing actors and their use-cases](alx-booking-uc.png)
+
+# Acceptance Criteria.
+## What is Acceptance Criteria?
+    Acceptance criteria are conditions that a feature must meet to be accepted by the stakeholders.
+    
+## The Importance of Acceptance Criteria in Requirements Analysis
+    Acceptance Criteria are a crucial component of requirements analysis because
+    they define the specific conditions a product or feature must meet to be 
+    accepted by stakeholders, end users, or quality assurance teams. In simple terms,
+    they act as the "definition of done" for each requirement.
+    
+## Why Acceptance Criteria Matter in Requirements Analysis
+
+    Clarifies Expectations
+
+        Acceptance criteria eliminate ambiguity by setting clear rules for functionality, performance, and user interaction.
+
+        This ensures that developers, testers, and clients share a common understanding of what is being built.
+
+    Enables Effective Testing
+
+        Acceptance criteria serve as the basis for test cases, allowing QA teams to validate whether the software behaves as intended.
+
+        They help determine when a user story or feature is complete and working correctly.
+
+    Reduces Miscommunication
+
+        Well-written criteria prevent costly rework and scope creep by aligning team efforts early in the development process.
+
+        It helps bridge the gap between technical teams and non-technical stakeholders.
+
+    Drives User-Centric Design
+
+        Since acceptance criteria often reflect user goals and behaviors, they ensure that features are usable and relevant.
+
+        They focus the team on delivering business value instead of just functionality.
+
+    Improves Project Planning and Prioritization
+
+        Teams can estimate more accurately when the criteria for acceptance are known.
+
+        It helps with sprint planning, task breakdown, and progress tracking in Agile environments.
+
+    Supports Traceability
+
+        Acceptance criteria can be traced back to original business requirements, enabling auditing and compliance in regulated industries.
+
+## Here's an example of Acceptance Criteria for the Checkout feature in a booking management system:
+    User Story:
+    As a registered customer, I want to be able to complete my booking by making a secure payment so that I can confirm my reservation.
+
+##  Acceptance Criteria:
+    The user sees a full booking summary before payment.
+
+    Multiple secure payment options are available.
+
+    Payment is processed securely via a payment gateway.
+
+    On success, a confirmation with booking ID is sent via email/SMS.
+
+    If payment fails, the user gets an error message and can retry.
+
+    Successful bookings appear in the user’s booking history.
