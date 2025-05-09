@@ -164,3 +164,6 @@
         Provide a clear visual representation of system functionalities.
         Help in identifying and organizing system requirements.
         Facilitate communication among stakeholders and development team.
+
+        ## A use case design diagram for the booking system, Listing actors and use cases.
+        images/
